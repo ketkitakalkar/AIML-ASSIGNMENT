@@ -35,6 +35,7 @@ python src/solution_generation.py
 7. **Visualize the results:**
 python src/visualization.py
 
+Example : 
 ![Visualization](Visualization.png)
 
 

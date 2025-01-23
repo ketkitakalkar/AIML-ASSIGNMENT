@@ -35,7 +35,7 @@ python src/solution_generation.py
 7. **Visualize the results:**
 python src/visualization.py
 
-![Visualization](https://raw.githubusercontent.com/ketkitakalkar/Root-Cause-Analysis/main/Visualization.png)
+![Visualization](Visualization.png)
 
 
 8. **Generate the analysis report:**

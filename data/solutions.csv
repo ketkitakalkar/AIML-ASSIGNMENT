@@ -1,0 +1,5 @@
+Category,Solution
+documentation,Update the README to provide more detailed setup instructions.
+feature request,Implement the requested feature with the following specification.
+bug,Refactor the function causing the bug and ensure all edge cases are handled.
+compatibility,Update dependencies to the latest compatible versions.
